@@ -6,8 +6,8 @@
 - 📫 How to reach me: **fm481111@gmail.com**.
 - 😄 Pronouns: **he/him, they**.
 - ⚡ Fun fact: **I love hiking, and I can play the guitar**.
-- 🌍 Based in: **[Karawang, Jawa Barat]**.
-- 🎯 Goals: **[improve my skills, contribute to more open-source projects]**.
+- 🌍 Based in: **Karawang, Jawa Barat**.
+- 🎯 Goals: **improve my skills, contribute to more open-source projects**.
 
 <!---
 fajarsikumbang/fajarsikumbang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
