@@ -18,7 +18,12 @@ Nice to meet you.
 ---
 
 ## 📊 Statistic  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajarsikumbang&show_icons=true&theme=radical)  
+![Grade](https://img.shields.io/badge/Grade-A%2B-blue?style=for-the-badge)  
+![Total Commits](https://img.shields.io/badge/Commits-1,024-green?style=for-the-badge)  
+![Total Stars](https://img.shields.io/badge/Stars-12-yellow?style=for-the-badge)  
+![Total PRs](https://img.shields.io/badge/PRs-50-orange?style=for-the-badge)  
+![Contributed To](https://img.shields.io/badge/Contributed%20To-15-red?style=for-the-badge)
+
 
 ---
 
