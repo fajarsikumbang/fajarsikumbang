@@ -1,15 +1,25 @@
-# 👋 Hi, I’m @fajarsikumbang
+# Hello, Welcome to My Profile! 👋  
+Nice to meet you.
 
-- 👀 I’m interested in **web development, AI, and open-source projects**.
-- 🌱 I’m currently learning **React, machine learning, Python, PHP/Laravel, and Ionic**.
-- 💞️ I’m looking to collaborate on **community-driven projects and software development**.
-- 📫 How to reach me: **fm481111@gmail.com**.
-- 😄 Pronouns: **he/him, they**.
-- ⚡ Fun fact: **I love hiking, and I can play the guitar**.
-- 🌍 Based in: **Karawang, Jawa Barat**.
-- 🎯 Goals: **improve my skills, contribute to more open-source projects**.
+## 👨‍💻 About Me  
+- 👀 **Interested in**: Web development, AI, and open-source projects.  
+- 🌱 **Currently Learning**: React, machine learning, Python, PHP/Laravel, and Ionic.  
+- 💞️ **Looking to Collaborate**: Community-driven projects and software development.  
+- 📫 **Reach Me At**: fm481111@gmail.com.  
+- ⚡ **Fun Fact**: I love hiking, and I can play the guitar.  
+- 🌍 **Based In**: Karawang, Jawa Barat.  
+- 🎯 **Goals**: Improve my skills and contribute to more open-source projects.  
 
-<!---
-fajarsikumbang/fajarsikumbang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Tech Stack  
+![My Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarsikumbang&layout=compact&theme=radical)
+
+---
+
+## 📊 Statistic  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajarsikumbang&show_icons=true&theme=radical)  
+
+---
+
+🌟 *Feel free to connect and collaborate with me!*
