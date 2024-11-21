@@ -18,7 +18,8 @@ Nice to meet you.
 ---
 
 ## 📊 Statistic  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajarsikumbang&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajarsikumbang&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs)
+
 
 
 ---
