@@ -5,7 +5,7 @@ Nice to meet you! I'm Fajar Sikumbang, a passionate developer exploring the worl
 
 ## 👨‍💻 About Me  
 - 👀 **Interests**: Web development, AI, and open-source projects.  
-- 🌱 **Currently Learning**: React, machine learning, Python, PHP/Laravel, and Ionic.  
+- 🌱 **Currently Learning**: React, machine learning, Python, PHP/Laravel, Ionic, and Golang.  
 - 💞️ **Looking to Collaborate**: Community-driven projects and software development.  
 - 📫 **Reach Me At**: [fm481111@gmail.com](mailto:fm481111@gmail.com)  
 - ⚡ **Fun Fact**: I love hiking and playing the guitar.  
