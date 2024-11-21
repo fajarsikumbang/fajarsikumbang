@@ -33,6 +33,19 @@ Nice to meet you! I'm Fajar Sikumbang, a passionate developer exploring the worl
 
 ---
 
+## 🏆 GitHub Achievements  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fajarsikumbang&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajarsikumbang&theme=radical" alt="Contribution Graph" />
+</div>
+
+
 ## 🌟 Let's Connect!  
 Feel free to reach out if you're interested in collaborating or just want to chat about tech! 😊  
 You can connect with me via email: [fm481111@gmail.com](mailto:fm481111@gmail.com)  
